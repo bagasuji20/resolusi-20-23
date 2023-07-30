@@ -2,8 +2,10 @@ rencana :
 - motor
  * ban
  * spion
-  > biru
+  > hitam
   > pink
+- laptop
 - vlog
  * ngopi
 - food
+- bootcamp
