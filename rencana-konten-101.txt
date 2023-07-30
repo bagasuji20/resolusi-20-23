@@ -1,0 +1,6 @@
+rencana :
+- motor
+ * ban
+ * spion
+- vlog
+- food
