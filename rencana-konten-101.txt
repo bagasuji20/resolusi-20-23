@@ -1,0 +1,4 @@
+rencana :
+- motor
+- vlog
+- food
