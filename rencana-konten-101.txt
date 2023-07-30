@@ -2,6 +2,9 @@ rencana :
 - motor
  * ban
  * spion
+  > hitam
 - laptop
 - vlog
+ * ngopi
 - food
+- bootcamp
