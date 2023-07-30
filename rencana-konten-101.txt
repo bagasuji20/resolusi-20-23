@@ -3,6 +3,7 @@ rencana :
  * ban
  * spion
   > hitam
+  > pink
 - laptop
 - vlog
  * ngopi
