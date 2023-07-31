@@ -4,6 +4,7 @@ rencana :
  * spion
   > hitam
   > pink
+  > biru
 - laptop
 - vlog
  * ngopi
